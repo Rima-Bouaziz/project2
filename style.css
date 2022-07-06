@@ -1,0 +1,44 @@
+body { 
+    margin:5px;
+    background-image:url('shadow.jpg');
+    background-repeat:repeat;
+    background-position:right top;
+ }
+legend{
+   color: crimson;
+}
+.tt{
+   
+    list-style-type: none;
+    display :flex;
+  
+    font-size: 20px;
+    font-style: italic;
+
+}
+.haloo{
+    font-size: 40px;
+    font-style: italic;
+}
+.navul{
+    display: flex;
+    justify-content: space-around;
+    margin-left: -50px;
+}
+.navul{
+     border-style: inset;
+     border-color: darkgrey;
+     border-radius: 5%;
+     border-width: 10px;
+}
+.rr{
+     color:rgb(0, 145, 255);
+     
+}
+fieldset{
+    font-size: 20px;
+    font-style: oblique;
+}
+.information{
+    color: chocolate;
+}
