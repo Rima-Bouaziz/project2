@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+body{
+    max-width: 1015px;
+    margin: 0 auto;
+   
+    
+   
+
+}
+nav{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    position: fixed;
+    justify-content: space-between;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    bottom: 643.6px;
+ 
+
+}
+.imgnav{
+   height: 34px;
+    width: 300px;
+    margin-left: 33px;
+    cursor: pointer;
+    
+}
+#aboutus{
+    color: #00b39b;
+}
+.uldepart{
+    display: none;
+}
+.menu{
+    font:15px,roboto,arial,sans-serif;
+    line-height: 30px;
+    background-color: #fff;
+    background-position: 0 0;
+    color: #ababab;
+    display: flex;
+   
+    cursor: pointer;
+    list-style: none;
+}
+.main-menu{
+    margin-right: 50px;
+}
+.main-logo{
+    height: 40px;
+    width: 40px;
+    margin-left: 500px;
+    margin-top: 100px;
+}
+.p{
+   font-family: "work sans",arial,sans-serif;
+   font-size: 34px;
+   font-weight: 300;
+   color: #00b39b;
+    text-align: center;
+  
+}
+.menu2:hover{
+    cursor: pointer;
+    color: #00b39b;
+}
+.paragraphe{
+    display: flex;
+}
+.p1{
+    font-family: roboto,arial,sans-serif;
+    font-size: 16px;
+    line-height: 28px;
+    margin: 13px 0 13px 0;
+    padding: 15px;
+    color:#747474 ;
+}
+.icon{
+    display: flex;
+    justify-content: space-between;
+}
+.patients{
+    background-color: #00b39b;
+   color: #747474;
+    height: 345px;
+    width: 170px;
+    padding: 22px 20px 0 20px ;
+}
+.doctor{
+    background-color: #3D83DF;
+   color: #747474;
+    height: 345px;
+    width: 170px;
+    padding: 22px 20px 0 20px ;
+}
+.clinics{
+    background-color: #1B2734;
+    color: #747474;
+     height: 345px;
+     width: 170px;
+     padding: 22px 20px 0 20px ;
+ }  
+.h1{
+    font-family: "work sans",arial,sans-serif;
+    font-size: 26px;
+    
+    color: #fff;
+}
+.icon-p{
+    font-family:"work sans",arial,sans-serif ;
+    font-size: 24px;
+    font-weight: 300;
+    color: #fff;
+}
+ .choose-country{
+    font-family: roboto,arial,sans-serif;
+    font-size: 20px;
+    line-height: 25px;
+    text-decoration: underline solid rbg(255,255,255);
+    cursor: pointer;
+    background-color: #fff;
+    color: #fff;
+    outline:(255 0 0)dashed 1px ;
+    white-space: pre;
+    background: none;
+ 
+}
+ .specialities{
+    font-family:roboto,arial,sans-serif ;
+    font-size: 20px;
+    line-height: 25px;
+    text-decoration:underline solid rbg(255,255,255) ;
+    background-color: #fff;
+    color: #fff;
+    cursor: pointer;
+    outline:(255 0 0)dashed 1px ;
+    height: 40px;
+    width: 130px;
+    padding:0 38px 0 0;
+    background: none;
+}  
+
+.hh{
+    font-family: "work sans",arial,sans-serif;
+    font-size: 26px;
+    line-height: 33px;
+    font-weight: 300;
+    text-align: center;
+    color: #00b39b;
+    background-color: #fff;
+    
+}
+.option{
+    background-color: #00b39b;
+
+}
+.option1{
+    background-color: #3D83DF;
+}
+.option2{
+    background-color: #1B2734;
+}
+.option3{
+    background-color: #1B2734;
+}
+.backgaound{
+    background-image: url(./whts.jpg);
+    height: 600px;
+    width: 1519px;
+}
+.world{
+    font-family:"work sans",arial,sans-serif ;
+    font-size: 34px;
+    font-weight: 300;
+    color: #00b39b;
+}
+.work{
+    font-family:roboto,arial,sans-serif ;
+    font-size: 14px;
+    line-height: 24px;
+    color: #747474;
+}
+.box{
+    display: flex;
+    height: 250px;
+    width: 229px;
+   
+    background-color: #fff;
+
+}
+.img{
+    height:40px ;
+    width: 35px;
+}
+.div{
+    display: flex;
+    justify-content: space-around;
+}
